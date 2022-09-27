@@ -1,0 +1,5 @@
+com\gl\customerRelationManagement\controller\HelloController.class
+com\gl\customerRelationManagement\service\CustomerRelationshipManagementService.class
+com\gl\customerRelationManagement\entity\Customer.class
+com\gl\customerRelationManagement\controller\CustomerRelationshipManagementController.class
+com\gl\customerRelationManagement\service\CustomerRelationshipManagementServiceImpl.class
